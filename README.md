@@ -11,7 +11,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npm i Athiban2002
+npm i senthil-k8s
 ```
 **👆 This command line tool can be found at [npm i Athiban2002](https://github.com/Athiban2002/npm-Athiban2002)**
 
@@ -48,7 +48,7 @@ const senthil_athiban = {
 
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
-| ![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=Athiban2002&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) | [![Senthil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athiban2002&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/Athiban2002?tab=repositories) | [![Senthil's Streak](https://github-readme-streak-stats.herokuapp.com?user=Athiban2002&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=74FF0A&background=2D2D2D&currStreakLabel=74FF0A&fire=74FF0A&sideLabels=74FF0A)](https://git.io/streak-stats) |
+| ![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=Athiban2002&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) | [![Senthil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senthil-k8s&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/senthil-k8s?tab=repositories) | [![Senthil's Streak](https://github-readme-streak-stats.herokuapp.com?user=senthil-k8s&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=74FF0A&background=2D2D2D&currStreakLabel=74FF0A&fire=74FF0A&sideLabels=74FF0A)](https://git.io/streak-stats) |
 
 
 Last Updated on 11/05/2023
