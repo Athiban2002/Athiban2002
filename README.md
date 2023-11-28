@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/senthil_k8s?label=Follow)](https://twitter.com/intent/follow?screen_name=senthil_k8s)
 [![Linkedin: Athiban2002](https://img.shields.io/badge/-senthil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/senthil-athiban-M)](https://www.linkedin.com/in/senthil-athiban-M)
 ![GitHub followers](https://img.shields.io/github/followers/Athiban2002?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://latrosoft.in/)](https://latrosoft.in/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://latrosoft.in/)]([https://latrosoft.in/](https://senthil-athiban.vercel.app/))
 ![](https://visitor-badge.glitch.me/badge?page_id=Athiban2002)
 
 👇 Hit in your console or terminal to connect with me.
@@ -20,7 +20,7 @@ npm i senthil-k8s
 ```javascript
 const senthil_athiban = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java"],
+    code: ["Javascript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd:{
@@ -29,12 +29,9 @@ const senthil_athiban = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Full Stack Web Development",
